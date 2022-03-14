@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blazor
+build_property.RootNamespace = Blazor
+build_property.ProjectDir = /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/AddTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-u0kc8m0jwe
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/Todos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9v2e8blvbk
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qt6tgh2907
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-32xpj7b96w
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

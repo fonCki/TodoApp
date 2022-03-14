@@ -1,0 +1,12 @@
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/bin/Debug/net6.0/Domain.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/bin/Debug/net6.0/ref/Domain.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/ref/Domain.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Domain/obj/Debug/net6.0/Domain.pdb

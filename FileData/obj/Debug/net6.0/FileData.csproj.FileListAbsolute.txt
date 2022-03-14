@@ -1,0 +1,15 @@
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/bin/Debug/net6.0/FileData.deps.json
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/bin/Debug/net6.0/FileData.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/bin/Debug/net6.0/ref/FileData.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/bin/Debug/net6.0/FileData.pdb
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/bin/Debug/net6.0/Domain.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/bin/Debug/net6.0/Domain.pdb
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.csproj.AssemblyReference.cache
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.AssemblyInfoInputs.cache
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.AssemblyInfo.cs
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.csproj.CoreCompileInputs.cache
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.csproj.CopyComplete
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/ref/FileData.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/Debug/net6.0/FileData.pdb
