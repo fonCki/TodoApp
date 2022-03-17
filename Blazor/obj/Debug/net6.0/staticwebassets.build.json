@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lv1kLFDmVhEcTm1Wt6BYMKQkvXffl2KsZoVnruqdSIE=",
+  "Hash": "yNvaQYItTusCT/rFRm5TAOGTt492CEv6vDNKXT78qJM=",
   "Source": "Blazor",
   "BasePath": "_content/Blazor",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/projectbundle/Blazor.bundle.scp.css"
     },
     {
+      "Identity": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/css/.DS_Store",
+      "SourceId": "Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/",
+      "BasePath": "_content/Blazor",
+      "RelativePath": "css/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/.DS_Store"
+    },
+    {
       "Identity": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/css/img/clear_funnel.png",
+      "SourceId": "Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/",
+      "BasePath": "_content/Blazor",
+      "RelativePath": "css/img/clear_funnel.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/img/clear_funnel.png"
+    },
+    {
+      "Identity": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/css/img/funnel.png",
+      "SourceId": "Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/",
+      "BasePath": "_content/Blazor",
+      "RelativePath": "css/img/funnel.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/img/funnel.png"
     },
     {
       "Identity": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/wwwroot/css/open-iconic/FONT-LICENSE",

@@ -53,3 +53,42 @@ input:checked + .slider[b-9v2e8blvbk]:before {
 .slider.round[b-9v2e8blvbk]:before {
     border-radius: 50%;
 }
+
+/* filters */
+.filterbar[b-9v2e8blvbk] {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;
+
+}
+
+.filterscontainer[b-9v2e8blvbk]{
+    display: flex;
+}
+
+.filter[b-9v2e8blvbk] {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.completedstatusfield[b-9v2e8blvbk] {
+    width: 100px;
+    text-align: center;
+    font-size: large;
+    height: 30px;
+}
+
+.owneridfield[b-9v2e8blvbk] {
+    width: 100px;
+    text-align: center;
+}
+
+.funnel[b-9v2e8blvbk]{
+    width:30px;
+    height:30px;
+    cursor: pointer;
+}

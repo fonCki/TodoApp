@@ -10,4 +10,14 @@
       <ProjectReference Include="..\FileData\FileData.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\css\img" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="Pages\UIElements\Modal.razor.css">
+        <DependentUpon>Modal.razor</DependentUpon>
+      </None>
+    </ItemGroup>
+
 </Project>

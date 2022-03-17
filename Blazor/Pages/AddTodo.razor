@@ -1,6 +1,7 @@
 @page "/AddTodo"
 @using Domain.Models
 @using Domain.Contracts
+@using UIElements
 @inject ITodoHome TodoHome
 @inject NavigationManager NavMgr
 
@@ -33,27 +34,39 @@
     @if (!string.IsNullOrEmpty(errorLabel)) {
         <label>@errorLabel</label>
     }
+    @if (showModal)
+        {
+            <Modal>
+                <p>You have successfully added a new Todo item. You should be very proud of yourself</p>
+                <button @onclick="@Proceed">Wonderful</button>
+            </Modal>
+        }
 </div>
 
 @code {
-
     private Todo newTodoItem = new Todo();
-    private string errorLabel;
-
+    private string errorLabel = String.Empty;
+    
+    private bool showModal;
+    
     private async Task AddNewTodo()
     {
         errorLabel = "";
         try
         {
             await TodoHome.AddAsync(newTodoItem);
+            showModal = true;
+            newTodoItem = new Todo();
         }
         catch (Exception e)
         {
             errorLabel = e.Message;
-            return;
         }
-
-        NavMgr.NavigateTo("/Todos");
     }
 
+    private void Proceed()
+    {
+        showModal = false;
+        NavMgr.NavigateTo("/Todos");
+    }
 }

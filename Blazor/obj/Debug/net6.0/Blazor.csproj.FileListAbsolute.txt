@@ -33,3 +33,6 @@
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/todos.json
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/AddTodo.razor.rz.scp.css
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/Todos.razor.rz.scp.css
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/EditTodo.razor.rz.scp.css
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/UIElements/Toggle.razor.rz.scp.css
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/UIElements/Modal.razor.rz.scp.css

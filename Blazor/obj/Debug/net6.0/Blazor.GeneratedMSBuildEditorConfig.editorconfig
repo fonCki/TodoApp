@@ -35,9 +35,21 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-u0kc8m0jwe
 
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/EditTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wifxaujzh7
+
 [/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/Todos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9v2e8blvbk
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/UIElements/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVUlFbGVtZW50cy9Nb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-bthuzd2hxk
+
+[/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Pages/UIElements/Toggle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVUlFbGVtZW50cy9Ub2dnbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5xth2fki75
 
 [/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
