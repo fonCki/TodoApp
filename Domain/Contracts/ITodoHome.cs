@@ -9,5 +9,6 @@ public interface ITodoHome {
         public Task<Todo> AddAsync(Todo todo);
         public Task DeleteAsync(int id);
         public Task UpdateAsync(Todo todo);
+        public Task<ICollection<Todo>> GetAsync(int? userId, bool? isCompleted);
 
 }

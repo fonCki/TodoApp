@@ -16,8 +16,6 @@
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/ref/Blazor.dll
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/Blazor.pdb
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/Domain.dll
-/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/FileData.dll
-/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/FileData.pdb
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/Domain.pdb
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/staticwebassets.build.json
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/staticwebassets.development.json
@@ -36,3 +34,5 @@
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/EditTodo.razor.rz.scp.css
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/UIElements/Toggle.razor.rz.scp.css
 /Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/obj/Debug/net6.0/scopedcss/Pages/UIElements/Modal.razor.rz.scp.css
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/HttpServices.dll
+/Users/alfonsoridao/Projects/RiderProjects/TodoApp/Blazor/bin/Debug/net6.0/HttpServices.pdb

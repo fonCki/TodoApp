@@ -41,4 +41,8 @@ public class TodoFileDao : ITodoHome {
         fileContext.SaveChanges();
         return Task.CompletedTask;
     }
+
+    public Task<ICollection<Todo>> GetAsync(int? userId, bool? isCompleted) {
+        throw new NotImplementedException();
+    }
 }

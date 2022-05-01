@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/FileData.csproj": {
-                "projectPath": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/FileData.csproj"
+              "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/HttpServices/HttpServices.csproj": {
+                "projectPath": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/HttpServices/HttpServices.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/FileData.csproj": {
+    "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/HttpServices/HttpServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/FileData.csproj",
-        "projectName": "FileData",
-        "projectPath": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/FileData.csproj",
+        "projectUniqueName": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/HttpServices/HttpServices.csproj",
+        "projectName": "HttpServices",
+        "projectPath": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/HttpServices/HttpServices.csproj",
         "packagesPath": "/Users/alfonsoridao/.nuget/packages/",
-        "outputPath": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/FileData/obj/",
+        "outputPath": "/Users/alfonsoridao/Projects/RiderProjects/TodoApp/HttpServices/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alfonsoridao/.nuget/NuGet/NuGet.Config"
@@ -152,6 +152,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
